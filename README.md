@@ -14,14 +14,14 @@ I’m a Junior Full-Stack Developer based in West-Flanders Belgium, currently fi
 
 🛠 Tech stack
 
-Front-end
+Front-end:
 React · TypeScript · JavaScript · TypeScript · HTML · CSS
 
-Back-end
+Back-end:
 Node.js · APIs · Databases(SQL, NoSQL, ...)
 
-Other
-Java/Kotlin · C# · Android · IOS · PHP · Spring Boot
+Other:
+Java/Kotlin · C# · Android · IOS · PHP · Spring Boot · Python
 
 ⸻
 
