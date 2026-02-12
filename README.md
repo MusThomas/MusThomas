@@ -1,6 +1,6 @@
 Hi, I’m Thomas 👋
 
-I’m a Junior Full-Stack Developer based in West-Flanders Belgium, currently finishing my studies Applied Computer Science – Software Development at HoGent.
+I’m a Junior Full-Stack Developer based in West-Flanders Belgium, with a Bachelor in Applied Computer Science – Software Development at HoGent.
 
 ⸻
 
@@ -26,11 +26,12 @@ Java/Kotlin · C# · Android · IOS · PHP · Spring Boot · Python
 ⸻
 
 🚀 Experience
-	•	🎓 Final-year student at HoGent (graduating soon)
+	•	🎓 Graduated in january 2026
 	•	🧑‍💻 Internship at Encima (Torhout)
 	•	Built a category-matching system from scratch
 	•	Hands-on experience with AI / machine learning concepts
 	•	Strong focus on autonomy, problem-solving and quality
+	•	Currently building an all-in-one budget management app with a friend
 	•	🌐 Founder of Musign – consultancy and building React & TypeScript websites for clients
 
 ⸻
