@@ -1,6 +1,7 @@
 Hi, I’m Thomas 👋
 
 I’m a Junior Full-Stack Developer based in West-Flanders Belgium, with a Bachelor in Applied Computer Science – Software Development at HoGent.
+Currently working as Business Application Manager for Jacops NV. 🔨🏗️
 
 ⸻
 
@@ -26,7 +27,7 @@ Java/Kotlin · C# · Android · IOS · PHP · Spring Boot · Python
 ⸻
 
 🚀 Experience
-	•	🎓 Graduated in january 2026
+	•	🎓 Graduated in february 2026
 	•	🧑‍💻 Internship at Encima (Torhout)
 	•	Built a category-matching system from scratch
 	•	Hands-on experience with AI / machine learning concepts
